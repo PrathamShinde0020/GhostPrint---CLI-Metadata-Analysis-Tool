@@ -57,7 +57,7 @@ pip (Python package installer)
 Installation
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/PrathamShinde0020/GhostPrint---CLI-Metadata-Analysis-Tool.git
 cd GhostPrint---CLI-Metadata-Analysis-Tool
 Install the required Python packages:
 
